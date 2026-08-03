@@ -1,0 +1,5 @@
+git branch -vv
+
+* bug-fix-revert  ad95b0a Create close_pr.yml
+  bug-fix-typo    ad95b0a Create close_pr.yml
+  main            ad95b0a Create close_pr.yml
